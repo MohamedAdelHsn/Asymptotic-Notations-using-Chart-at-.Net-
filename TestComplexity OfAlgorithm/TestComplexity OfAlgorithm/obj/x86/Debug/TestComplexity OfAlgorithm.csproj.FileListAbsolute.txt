@@ -1,0 +1,8 @@
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\bin\Debug\TestComplexity OfAlgorithm.exe
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\bin\Debug\TestComplexity OfAlgorithm.pdb
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\obj\x86\Debug\TestComplexity_OfAlgorithm.Form1.resources
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\obj\x86\Debug\TestComplexity_OfAlgorithm.Properties.Resources.resources
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\obj\x86\Debug\TestComplexity OfAlgorithm.csproj.GenerateResource.Cache
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\obj\x86\Debug\TestComplexity OfAlgorithm.exe
+c:\users\ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\obj\x86\Debug\TestComplexity OfAlgorithm.pdb
+C:\Users\Ms\documents\visual studio 2010\Projects\TestComplexity OfAlgorithm\TestComplexity OfAlgorithm\obj\x86\Debug\TestComplexity OfAlgorithm.csprojResolveAssemblyReference.cache
